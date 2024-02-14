@@ -1,6 +1,6 @@
 # `@actions/glob`
 
-## Usage
+## Usa-se 
 
 ### Basic
 
